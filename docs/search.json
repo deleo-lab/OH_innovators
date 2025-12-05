@@ -26,5 +26,47 @@
     "title": "Schistosomiasis innovations",
     "section": "Integrated Rice-Fish Farming",
     "text": "Integrated Rice-Fish Farming\nRice is a vital staple to feed Africa’s growing population, however, rice farming exposes farmers to schistosomiasis. Rice-fish co-farming is a win-win-win sustainable solution to increase food security, diversify farmers incomes, lower agrochemical use, and combat infectious disease.\n\nRice-fish Co-farming"
+  },
+  {
+    "objectID": "invest_schisto_tool.html",
+    "href": "invest_schisto_tool.html",
+    "title": "InVEST: Schistosomiasis Plugin",
+    "section": "",
+    "text": "A tool within the InVEST software for incorporating disease considerations in Environmental Impact Assessments."
+  },
+  {
+    "objectID": "invest_schisto_tool.html#easy-to-use",
+    "href": "invest_schisto_tool.html#easy-to-use",
+    "title": "InVEST: Schistosomiasis Plugin",
+    "section": "Easy to use",
+    "text": "Easy to use\nThe software accommodates multiple models and allows users to input their own spatial raster datasets or use recommended datasets. Tutorials on installation, setup, and use will be provided.\n\nLearn about InVEST\n\nThe schistosomiasis plugin was built by the De Leo Lab in collaboration with NatCap, but will be hosted independently."
+  },
+  {
+    "objectID": "invest_schisto_tool.html#report-ready-visuals",
+    "href": "invest_schisto_tool.html#report-ready-visuals",
+    "title": "InVEST: Schistosomiasis Plugin",
+    "section": "Report ready visuals",
+    "text": "Report ready visuals\nThe output predictions of schistosomiasis risk can be used in any GIS software. Additionally, we are developing preformed reports to aid users."
+  },
+  {
+    "objectID": "invest_schisto_tool.html#validation",
+    "href": "invest_schisto_tool.html#validation",
+    "title": "InVEST: Schistosomiasis Plugin",
+    "section": "Validation",
+    "text": "Validation\nWe have validated the predictions made by the software with observed infection Schistosoma haematobium prevalence data from the Senegal River Basin.\n\nLearn about InVEST\n\nThe schistosomiasis plugin was built by the De Leo Lab in collaboration with NatCap, but will be hosted independently."
+  },
+  {
+    "objectID": "rice_fish_schisto.html",
+    "href": "rice_fish_schisto.html",
+    "title": "Schistosomiasis innovations",
+    "section": "",
+    "text": "In regions hyperendemic to schistosomiasis, communities need intervention beyond mass drug administration and short-term snail controls. That’s where rice-fish co-aquaculture comes in as biological snail control. Native fish species naturally consume snails while simultaneously providing farmers with protein, additional income, and natural fertilizer. Rice-fish co-aquaculture is a low external input sustainable agriculture system (LEISA). Farmers need only slightly modify their existing fields and purchase fish; no external feeding of fish is required. Furthermore, fish waste enriches the soil and reduces pesticide needs. In high-risk regions like the Senegal River Basin, pilot studies show farmers recoup their investment in year one while snail populations plummet.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "dams_and_disease.html#check-out-our-innovative-solutions",
+    "href": "dams_and_disease.html#check-out-our-innovative-solutions",
+    "title": "Schistosomiasis innovations",
+    "section": "Check out our innovative solutions",
+    "text": "Check out our innovative solutions\n\nLong-term Risk Assessment Software Snail habitat AI toolset Rice & Fish Co-aquaculture"
   }
 ]

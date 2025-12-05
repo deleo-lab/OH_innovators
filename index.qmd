@@ -1,0 +1,83 @@
+---
+toc: false
+format: 
+  html: 
+    sidebar: false
+    anchor-sections: false
+    css: styles.css #[theme.css, index.css]
+    page-layout: custom
+---
+<center>
+# Preventing Schistosomiasis at Scale
+
+## Smart Surveillance Meets Sustainable Farming
+
+</center>
+
+::: {.content-container}
+This site contains the materials presented by the [Deo Leo Lab](https://deleolab.stanford.edu/) at Stanford University for the One Health Innovators Market Place at the [Regional One Health Conference for Eastern and Southern Africa](https://www.esafricaonehealth.com/) in Lusaka, Zambia December 11-12, 2025.
+:::
+
+::: {.banner .banner-1}
+::: {.banner-content}
+::: {.banner-image}
+<center>
+
+![](images/schisto_lifecycle_simple_myversion.svg)
+
+</center>
+:::
+::: {.banner-text}
+## Schistosomiasis 
+Schistosomiasis infects 250 million people globally, 90% of which living in Africa.  
+
+::: {.centered-links}
+<a href="https://schisto.stanford.edu/">History</a>
+<a href="https://www.eliminateschisto.org/">Global Schistosomiasis Alliance</a> 
+:::
+
+[Image: Schistome lifecycle: De Leo Lab]{style="font-size:.7rem; color:#ae5b5b;"}
+
+:::
+:::
+:::
+
+::: {.banner .banner-0}
+::: {.banner-content}
+
+::: {.banner-text}
+## Dams and disease
+
+
+More than 600 dams are in construction or are being proposed. Dams and irrigation systems increase the risk of schistosomiasis by creating suitable habitats for snails. Addressing dam building-associate disease risk can benefit communities across Africa.
+
+::: {.centered-links}
+<a href="dams_and_disease.qmd">More Information</a>
+<a href="invest_schisto_plugin.qmd">Risk assessment software</a>
+:::
+
+[Image: Diama Dam (CC-BY-NC): [Par Ji-Elle](https://commons.wikimedia.org/w/index.php?curid=1621736)]{style="font-size:.7rem; color:#ae5b5b;"}
+
+:::
+::: {.banner-image}
+![](images/BarrageDiama.jpg)
+:::
+:::
+:::
+
+::: {.banner .banner-1}
+::: {.banner-content}
+::: {.banner-image}
+![](images/FISH.png)
+:::
+::: {.banner-text}
+## Integrated Rice-Fish Farming
+Rice is a vital staple to feed Africa's growing population, however, rice farming exposes farmers to schistosomiasis. Rice-fish co-farming is a win-win-win sustainable solution to increase food security, diversify farmers incomes, lower agrochemical use, and combat infectious disease. 
+
+::: {.centered-links}
+<a href="rice_fish_schisto.qmd">Rice-fish Co-farming</a>
+:::
+:::
+:::
+:::
+

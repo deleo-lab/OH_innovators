@@ -1,0 +1,60 @@
+---
+title: "InVEST: Schistosomiasis Plugin"
+---
+
+A tool within the InVEST software for incorporating disease considerations in Environmental Impact Assessments. 
+
+:::{.banner .banner-1}
+::: {.banner-content}
+::: {.banner-image}
+![](images/invest1.png)
+:::
+
+::: {.banner-text}
+## Easy to use 
+The software accommodates multiple models and allows users to input their own spatial raster datasets or use recommended datasets. Tutorials on installation, setup, and use will be provided.   
+
+::: {.centered-links}
+<a href="https://naturalcapitalproject.stanford.edu/software/invest/">Learn about InVEST</a>
+:::
+
+[The schistosomiasis plugin was built by the De Leo Lab in collaboration with NatCap, but will be hosted independently.]{style="font-size:.7rem; color:#ae5b5b;"}
+
+:::
+:::
+:::
+
+:::{.banner .banner-0}
+::: {.banner-content}
+::: {.banner-text}
+## Report ready visuals   
+The output predictions of schistosomiasis risk can be used in any GIS software. Additionally, we are developing preformed reports to aid users.    
+
+:::
+
+::: {.banner-image}
+![](images/invest2.png)
+:::
+
+:::
+:::
+
+:::{.banner .banner-1}
+::: {.banner-content}
+::: {.banner-image}
+![](images/invest3.png)
+:::
+
+::: {.banner-text}
+## Validation 
+We have validated the predictions made by the software with observed infection *Schistosoma haematobium* prevalence data from the Senegal River Basin.    
+
+::: {.centered-links}
+<a href="https://naturalcapitalproject.stanford.edu/software/invest/">Learn about InVEST</a>
+:::
+
+[The schistosomiasis plugin was built by the De Leo Lab in collaboration with NatCap, but will be hosted independently.]{style="font-size:.7rem; color:#ae5b5b;"}
+
+:::
+:::
+:::

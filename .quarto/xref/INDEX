@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "a84353e5"
+  },
+  "about.qmd": {
+    "about.html": "747717ac"
+  },
+  "dams_and_disease.qmd": {
+    "dams_and_disease.html": "3beb7e92"
+  },
+  "rice_fish_schisto.qmd": {
+    "rice_fish_schisto.html": "cb55bbd7"
+  },
+  "invest_schisto_tool.qmd": {
+    "invest_schisto_tool.html": "08011cf9"
+  },
+  "snail_habitat_toolset.qmd": {
+    "snail_habitat_toolset.html": "50ea572c"
+  }
+}

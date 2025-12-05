@@ -1,0 +1,80 @@
+---
+toc: false
+format: 
+  html: 
+    sidebar: false
+    anchor-sections: false
+    css: styles.css #[theme.css, index.css]
+    page-layout: custom
+---
+
+::: {.content-container}
+# AI Deep Learning Successfully Maps Snail Habitat Across Scales
+
+Identifying snail habitats is key to controlling schistosomiasis. Ecological methods of sampling water access points for snails is time consuming and limited to the locations surveyed. Much of the habitat snails prefer is outside of the depth a person wearing waders can sample. This results in some villages having high schistosomiasis prevalence despite ecologist not finding snails at water access points.  
+:::
+
+::: {.banner .banner-1}
+::: {.banner-content}
+::: {.banner-image}
+<center>
+
+![](images/drone_classification.png)
+
+</center>
+:::
+::: {.banner-text}
+### Drone-based classifications  
+Drone imagery and AI-powered mapping is useful for identify the floating vegetation that is snails preferred habitat. See our publications on scaling from ecological surveys to drone imagery.  
+
+
+:::
+:::
+:::
+
+::: {.content-container}
+However, drones can only fly over a small area, thus scaling to districts and regions still remains a challenge.
+:::
+
+::: {.banner .banner-1}
+::: {.banner-content}
+
+::: {.banner-text}
+### Satellite-based classifications  
+AI-powered mapping using high-resolution satellite imagery is the next step. We are now using Hierarchical UNet with EfficientNet-B4 backcone to:  
+
+1. Build detailed habitat classifications of drone imagery  
+2. Transfer learning to satellite data (PlanetScope, 3m resolution)  
+
+
+:::
+::: {.banner-image}
+<center>
+
+![](images/satellite_classification.png)
+
+</center>
+:::
+:::
+:::
+  
+::: {.banner .banner-0}
+::: {.banner-content}
+::: {.banner-image}
+<center>
+
+![](images/drone_satellite_curve.png)
+
+</center>
+:::
+::: {.banner-text}
+### Accuracy and Applications  
+We achieve drone-level accuracy >90% for key habitats and are successfully scaling up the workflow to satellite imagery. Thus demonstrating robust performance across data sources and environments for this automated, rapid, cost-effective, large-scale surveillance system.  
+
+These maps would allow for targetting snail control where it is needed most.
+
+
+:::
+:::
+:::
+ 

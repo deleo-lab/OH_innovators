@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Schistosomiasis innovations"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - text: "Projects"
+        menu:
+          - text: "Dams & Disease"
+            href: dams_and_disease.qmd
+          - text: "Risk assessment software"
+            href: invest_schisto_tool.qmd
+          - text: "Snail habitat AI toolset"
+            href: snail_habitat_toolset.qmd
+          - text: "Rice & Fish"
+            href: rice_fish_schisto.qmd
+      - text: "De Leo Lab Website"
+        href: "https://deleolab.stanford.edu/"
+        target: _blank
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+    linkcolor: "#620e0e"
+    link-external-newwindow: true
+
+
+

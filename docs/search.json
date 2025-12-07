@@ -37,21 +37,21 @@
   {
     "objectID": "invest_schisto_tool.html#easy-to-use",
     "href": "invest_schisto_tool.html#easy-to-use",
-    "title": "InVEST: Schistosomiasis Plugin",
+    "title": "Schistosomiasis innovations",
     "section": "Easy to use",
     "text": "Easy to use\nThe software accommodates multiple models and allows users to input their own spatial raster datasets or use recommended datasets. Tutorials on installation, setup, and use will be provided.\n\nLearn about InVEST\n\nThe schistosomiasis plugin was built by the De Leo Lab in collaboration with NatCap, but will be hosted independently."
   },
   {
     "objectID": "invest_schisto_tool.html#report-ready-visuals",
     "href": "invest_schisto_tool.html#report-ready-visuals",
-    "title": "InVEST: Schistosomiasis Plugin",
+    "title": "Schistosomiasis innovations",
     "section": "Report ready visuals",
     "text": "Report ready visuals\nThe output predictions of schistosomiasis risk can be used in any GIS software. Additionally, we are developing preformed reports to aid users."
   },
   {
     "objectID": "invest_schisto_tool.html#validation",
     "href": "invest_schisto_tool.html#validation",
-    "title": "InVEST: Schistosomiasis Plugin",
+    "title": "Schistosomiasis innovations",
     "section": "Validation",
     "text": "Validation\nWe have validated the predictions made by the software with observed infection Schistosoma haematobium prevalence data from the Senegal River Basin.\n\nLearn about InVEST\n\nThe schistosomiasis plugin was built by the De Leo Lab in collaboration with NatCap, but will be hosted independently."
   },
@@ -89,5 +89,12 @@
     "title": "Schistosomiasis innovations",
     "section": "More information",
     "text": "More information\n\nDECO\n\n Yuan, S., Saito, K., van Oort, P.A.J. et al. Intensifying rice production to reduce imports and land conversion in Africa. Nat Commun 15, 835 (2024). https://doi.org/10.1038/s41467-024-44950-8\nSack A, Selland E, Bakhoum S, Seck M, Jouanard N, et al. Human Schistosoma exposure risk in rice fields and an exploration of fish species for snail and schistosomiasis biocontrol. PLOS Global Public Health 5(6) e0004726 (2025). https://doi.org/10.1371/journal.pgph.0004726\nEmily K. Selland, Nicolas Jouanard, Amadou Guisse, Momy Seck, Andrea J. Lund, David López-Carr, Alexandra Sack, Louis Dossou Magblenou, Giulio De Leo, Molly J. Doruska, Christopher B. Barrett, Jason R. Rohr. Rice-Fish Co-Culturing for Sustainability, Food Security, and Disease and Poverty Reduction. bioRxiv 2025.11.14.688524. https://doi.org/10.1101/2025.11.14.688524\nRinaldo, D., Perez-Saez, J., Vounatsou, P. et al. The economic impact of schistosomiasis. Infect Dis Poverty 10, 134 (2021). https://doi.org/10.1186/s40249-021-00919-z\nIf you cannot access an article contact us and we will share a pdf."
+  },
+  {
+    "objectID": "invest_schisto_tool.html#invest-schistosomiasis-plugin",
+    "href": "invest_schisto_tool.html#invest-schistosomiasis-plugin",
+    "title": "Schistosomiasis innovations",
+    "section": "InVEST: Schistosomiasis Plugin",
+    "text": "InVEST: Schistosomiasis Plugin\nA tool within the InVEST software for incorporating disease considerations in Environmental Impact Assessments."
   }
 ]

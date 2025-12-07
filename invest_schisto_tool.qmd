@@ -1,8 +1,18 @@
 ---
-title: "InVEST: Schistosomiasis Plugin"
+toc: false
+format: 
+  html: 
+    sidebar: false
+    anchor-sections: false
+    css: styles.css #[theme.css, index.css]
+    page-layout: custom
 ---
 
+::: {.content-container}
+## InVEST: Schistosomiasis Plugin
+
 A tool within the InVEST software for incorporating disease considerations in Environmental Impact Assessments. 
+:::
 
 :::{.banner .banner-1}
 ::: {.banner-content}

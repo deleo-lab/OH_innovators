@@ -35,7 +35,7 @@ website:
       right: 
         - text: "Stanford University"
       background: "#8C1515" # Background color for the footer
-      foreground: "f3e7e7" # Text color for the footer
+      foreground: "#ffffff" # Text color for the footer
       
 format:
   html:

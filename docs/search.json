@@ -11,7 +11,7 @@
     "href": "index.html#schistosomiasis",
     "title": "Schistosomiasis innovations",
     "section": "Schistosomiasis",
-    "text": "Schistosomiasis\nSchistosomiasis infects 250 million people globally, 90% of which living in Africa.\n\nHistory Global Schistosomiasis Alliance\n\nImage: Schistome lifecycle: De Leo Lab"
+    "text": "Schistosomiasis\nSchistosomiasis infects 250 million people globally, 90% of which live in Africa.\n\nHistory Global Schistosomiasis Alliance\n\nImage: Schistome lifecycle: De Leo Lab"
   },
   {
     "objectID": "index.html#dams-and-disease",
@@ -25,7 +25,7 @@
     "href": "index.html#integrated-rice-fish-farming",
     "title": "Schistosomiasis innovations",
     "section": "Integrated Rice-Fish Farming",
-    "text": "Integrated Rice-Fish Farming\nRice is a vital staple to feed Africa’s growing population, however, rice farming exposes farmers to schistosomiasis. Rice-fish co-farming is a win-win-win sustainable solution to increase food security, diversify farmers incomes, lower agrochemical use, and combat infectious disease.\n\nRice-fish Co-farming"
+    "text": "Integrated Rice-Fish Farming\nRice is a vital staple to feed Africa’s growing population, however, rice farming exposes farmers to schistosomiasis. Rice-fish co-farming is a win-win-win sustainable solution to increase food security, diversify farmers incomes, lower agrochemical use, and combat infectious disease.\n\nRice-fish Co-farming\n\nImage: Fish haverst: De Leo Lab"
   },
   {
     "objectID": "invest_schisto_tool.html",
@@ -60,7 +60,7 @@
     "href": "rice_fish_schisto.html",
     "title": "Schistosomiasis innovations",
     "section": "",
-    "text": "In regions hyperendemic to schistosomiasis, communities need intervention beyond mass drug administration and short-term snail controls. That’s where rice-fish co-aquaculture comes in as biological snail control. Native fish species naturally consume snails while simultaneously providing farmers with protein, additional income, and natural fertilizer. Rice-fish co-aquaculture is a low external input sustainable agriculture system (LEISA). Farmers need only slightly modify their existing fields and purchase fish; no external feeding of fish is required. Furthermore, fish waste enriches the soil and reduces pesticide needs. In high-risk regions like the Senegal River Basin, pilot studies show farmers recoup their investment in year one while snail populations plummet.\n\n\n\n\n\n Back to top"
+    "text": "In regions hyperendemic to schistosomiasis, communities need intervention beyond mass drug administration and short-term snail controls. That’s where rice-fish co-aquaculture comes in as biological snail control. Native fish species naturally consume snails while simultaneously providing farmers with protein, additional income, and natural fertilizer. Rice-fish co-aquaculture is a low external input sustainable agriculture system (LEISA). Farmers need only slightly modify their existing fields and purchase fish; no external feeding of fish is required. Furthermore, fish waste enriches the soil and reduces pesticide needs. In high-risk regions like the Senegal River Basin, pilot studies show farmers recoup their investment in year one while snail populations plummet."
   },
   {
     "objectID": "dams_and_disease.html#check-out-our-innovative-solutions",
@@ -68,5 +68,26 @@
     "title": "Schistosomiasis innovations",
     "section": "Check out our innovative solutions",
     "text": "Check out our innovative solutions\n\nLong-term Risk Assessment Software Snail habitat AI toolset Rice & Fish Co-aquaculture"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "dams_and_disease.html#more-information",
+    "href": "dams_and_disease.html#more-information",
+    "title": "Schistosomiasis innovations",
+    "section": "More information",
+    "text": "More information\n\nDams & Parasites\n\nRohr, J.R., Barrett, C.B., Civitello, D.J. et al. Emerging human infectious diseases and the links to global food production. Nat Sustain 2, 445–456 (2019). https://doi.org/10.1038/s41893-019-0293-3\nSteinmann, Peter et al. Schistosomiasis and water resources development: Systematic review, meta-analysis, and estimates of people at risk.Lancet Infect Dis 6(7), 411-425 (2006). https://doi.org/10.1016/S1473-3099(06)70521-7\nRinaldo, D., Perez-Saez, J., Vounatsou, P. et al. The economic impact of schistosomiasis. Infect Dis Poverty 10, 134 (2021). https://doi.org/10.1186/s40249-021-00919-z\nSow, S., de Vlas, S. J., Engels, D., & Gryseels, B. Water-related disease patterns before and after the construction of the Diama dam in northern Senegal. Annals of Tropical Medicine & Parasitology, 96(6), 575–586 (2002). https://doi.org/10.1179/000349802125001636\nIf you cannot access an article contact us and we will share a pdf."
+  },
+  {
+    "objectID": "rice_fish_schisto.html#more-information",
+    "href": "rice_fish_schisto.html#more-information",
+    "title": "Schistosomiasis innovations",
+    "section": "More information",
+    "text": "More information\n\nDECO\n\n Yuan, S., Saito, K., van Oort, P.A.J. et al. Intensifying rice production to reduce imports and land conversion in Africa. Nat Commun 15, 835 (2024). https://doi.org/10.1038/s41467-024-44950-8\nSack A, Selland E, Bakhoum S, Seck M, Jouanard N, et al. Human Schistosoma exposure risk in rice fields and an exploration of fish species for snail and schistosomiasis biocontrol. PLOS Global Public Health 5(6) e0004726 (2025). https://doi.org/10.1371/journal.pgph.0004726\nEmily K. Selland, Nicolas Jouanard, Amadou Guisse, Momy Seck, Andrea J. Lund, David López-Carr, Alexandra Sack, Louis Dossou Magblenou, Giulio De Leo, Molly J. Doruska, Christopher B. Barrett, Jason R. Rohr. Rice-Fish Co-Culturing for Sustainability, Food Security, and Disease and Poverty Reduction. bioRxiv 2025.11.14.688524. https://doi.org/10.1101/2025.11.14.688524\nRinaldo, D., Perez-Saez, J., Vounatsou, P. et al. The economic impact of schistosomiasis. Infect Dis Poverty 10, 134 (2021). https://doi.org/10.1186/s40249-021-00919-z\nIf you cannot access an article contact us and we will share a pdf."
   }
 ]

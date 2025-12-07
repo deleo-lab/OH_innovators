@@ -18,11 +18,25 @@ website:
             href: snail_habitat_toolset.qmd
           - text: "Rice & Fish"
             href: rice_fish_schisto.qmd
-      - text: "De Leo Lab Website"
+      - text: "De Leo Lab"
         href: "https://deleolab.stanford.edu/"
         target: _blank
+      - text: "Stanford | DECO"
+        href: "https://hph.stanford.edu/focal_areas/deco"
+        target: _blank
   back-to-top-navigation: true
-
+  page-footer:
+      left: 
+        - text: "© 2025 De Leo Lab"
+      center: 
+        - text: "Contact Us"
+          icon: envelope
+          href: mailto:kmkauffm@stanford.edu
+      right: 
+        - text: "Stanford University"
+      background: "#8C1515" # Background color for the footer
+      foreground: "f3e7e7" # Text color for the footer
+      
 format:
   html:
     theme: journal

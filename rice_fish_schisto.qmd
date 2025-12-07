@@ -1,9 +1,29 @@
-
+---
+toc: false
+---
 
 ![](images/FISH.png){fig-align="center"}
 
 In regions hyperendemic to schistosomiasis, communities need intervention beyond mass drug administration and short-term snail controls. That's where rice-fish co-aquaculture comes in as biological snail control. Native fish species naturally consume snails while simultaneously providing farmers with protein, additional income, and natural fertilizer. Rice-fish co-aquaculture is a low external input sustainable agriculture system (LEISA). Farmers need only slightly modify their existing fields and purchase fish; no external feeding of fish is required. Furthermore, fish waste enriches the soil and reduces pesticide needs. In high-risk regions like the Senegal River Basin, pilot studies show farmers recoup their investment in year one while snail populations plummet.
 
-![](images/Casey_rice_p1.png)
+![](images/Casey_rice_p1.svg)
 
-![](images/Casey_rice_p2.png)
+![](images/Casey_rice_p2.svg)
+
+
+## More information  
+
+::: {.centered-links}
+<a href="https://https://hph.stanford.edu/focal_areas/deco/senegal-integrated-rice-fish-farming">DECO</a>
+:::
+
+<span style="color:#620e0e;">
+Yuan, S., Saito, K., van Oort, P.A.J. et al. Intensifying rice production to reduce imports and land conversion in Africa. Nat Commun 15, 835 (2024). <https://doi.org/10.1038/s41467-024-44950-8>
+
+Sack A, Selland E, Bakhoum S, Seck M, Jouanard N, et al. Human Schistosoma exposure risk in rice fields and an exploration of fish species for snail and schistosomiasis biocontrol. PLOS Global Public Health 5(6) e0004726 (2025). <https://doi.org/10.1371/journal.pgph.0004726>
+
+Emily K. Selland, Nicolas Jouanard, Amadou Guisse, Momy Seck, Andrea J. Lund, David López-Carr, Alexandra Sack, Louis Dossou Magblenou, Giulio De Leo, Molly J. Doruska, Christopher B. Barrett, Jason R. Rohr. Rice-Fish Co-Culturing for Sustainability, Food Security, and Disease and Poverty Reduction. bioRxiv 2025.11.14.688524. <https://doi.org/10.1101/2025.11.14.688524>
+
+Rinaldo, D., Perez-Saez, J., Vounatsou, P. et al. The economic impact of schistosomiasis. Infect Dis Poverty 10, 134 (2021). <https://doi.org/10.1186/s40249-021-00919-z>
+
+**If you cannot access an article contact us and we will share a pdf.**</span>

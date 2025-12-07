@@ -7,8 +7,9 @@ format:
     css: styles.css #[theme.css, index.css]
     page-layout: custom
 ---
-::: {.content-container}
 ![](images/dams_risk_text.png)
+
+::: {.content-container}
 
 Across Africa, there are over 1,200 existing dams, with 600 more proposed or under construction. However, 90% of Environmental Impact Assessments completely ignore the impacts of dams have on schistosomiasis and other water-borne diseases. 
 :::
@@ -35,7 +36,7 @@ Existing and planned dams in Africa by country as of 2019. Existing dam data is 
 Without proper risk assessment, these infrastructure projects inadvertently create perfect breeding grounds for disease-carrying snails which results in new transmission hotspots that trap entire communities in cycles of poverty and disease.
 :::
 
-::: {.banner .banner-2}
+::: {.banner .banner-1}
 ::: {.banner-content}
 ::: {.banner-text}
 ### Schistosomiasis endemicity  
@@ -54,8 +55,8 @@ Schistosomiasis endemicity in Africa by district in 2023. Schistosomiasis data i
 :::
 :::
 ::: {.content-container}
-![](images/Rani_Dams_p1.png)
-![](images/Rani_Dams_p2.png)
+![](images/Rani_Dams_p1.svg)
+![](images/Rani_Dams_p2.svg)
 :::
 ::: {.content-container}
 ## Check out our innovative solutions  
@@ -65,6 +66,19 @@ Schistosomiasis endemicity in Africa by district in 2023. Schistosomiasis data i
 <a href="rice_fish_schisto.qmd">Rice & Fish Co-aquaculture</a>
 :::
 
+## More information  
 
+::: {.centered-links}
+<a href="https://hph.stanford.edu/focal_areas/deco/africa-wide-dams-parasites">Dams & Parasites</a>
+::: 
 
+<span style="color:#620e0e;">Rohr, J.R., Barrett, C.B., Civitello, D.J. et al. Emerging human infectious diseases and the links to global food production. Nat Sustain 2, 445–456 (2019). <https://doi.org/10.1038/s41893-019-0293-3>  
+
+Steinmann, Peter et al. Schistosomiasis and water resources development: Systematic review, meta-analysis, and estimates of people at risk.Lancet Infect Dis 6(7), 411-425 (2006). <https://doi.org/10.1016/S1473-3099(06)70521-7>  
+
+Rinaldo, D., Perez-Saez, J., Vounatsou, P. et al. The economic impact of schistosomiasis. Infect Dis Poverty 10, 134 (2021). <https://doi.org/10.1186/s40249-021-00919-z>
+
+Sow, S., de Vlas, S. J., Engels, D., & Gryseels, B. Water-related disease patterns before and after the construction of the Diama dam in northern Senegal. Annals of Tropical Medicine & Parasitology, 96(6), 575–586 (2002). <https://doi.org/10.1179/000349802125001636>
+
+**If you cannot access an article contact us and we will share a pdf.**</span>
 :::

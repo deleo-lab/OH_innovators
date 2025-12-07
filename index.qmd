@@ -29,7 +29,7 @@ This site contains the materials presented by the [Deo Leo Lab](https://deleolab
 :::
 ::: {.banner-text}
 ## Schistosomiasis 
-Schistosomiasis infects 250 million people globally, 90% of which living in Africa.  
+Schistosomiasis infects 250 million people globally, 90% of which live in Africa.  
 
 ::: {.centered-links}
 <a href="https://schisto.stanford.edu/">History</a>
@@ -68,7 +68,10 @@ More than 600 dams are in construction or are being proposed. Dams and irrigatio
 ::: {.banner .banner-1}
 ::: {.banner-content}
 ::: {.banner-image}
-![](images/FISH.png)
+<center>
+
+![](images/Amadou_fishinnet.jpg)
+</center>
 :::
 ::: {.banner-text}
 ## Integrated Rice-Fish Farming
@@ -77,6 +80,9 @@ Rice is a vital staple to feed Africa's growing population, however, rice farmin
 ::: {.centered-links}
 <a href="rice_fish_schisto.qmd">Rice-fish Co-farming</a>
 :::
+
+[Image: Fish haverst: De Leo Lab]{style="font-size:.7rem; color:#ae5b5b;"}
+
 :::
 :::
 :::

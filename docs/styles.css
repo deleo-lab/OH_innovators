@@ -70,18 +70,7 @@ body {
   background-color: #8C1515;
 }
 
-/* Responsive design */
-@media (max-width: 768px) {
-  .banner-content {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-  
-  .banner {
-    padding: 40px 0;
-  }
-}
-
+/* Link buttons */
 .centered-links {
   display: flex;
   justify-content: center;
@@ -100,6 +89,35 @@ body {
 
 .centered-links a:hover {
   background-color: #620e0e;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .banner-content {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .banner {
+    padding: 40px 0;
+  }
+  
+  /* centered links */
+  .centered-links {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .centered-links a {
+    width: 80%;
+    text-align: center;
+    padding: 8px 12px;
+    font-size: 0.9em;
+  }
+  
+  .content-container {
+    max-width: 95% auto;
+  }
 }
 
 /* Navigation bar background color */

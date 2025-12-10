@@ -54,16 +54,16 @@ Schistosomiasis endemicity in Africa by district in 2023. Schistosomiasis data i
 :::
 :::
 :::
-::: {.content-container}
+
 ![](images/Rani_Dams_p1.svg)
 ![](images/Rani_Dams_p2.svg)
-:::
+
 ::: {.content-container}
 ## Check out our innovative solutions  
 ::: {.centered-links}
-<a href="invest_schisto_tool.qmd">Long-term Risk Assessment Software</a>
-<a href="snail_habitat_toolset.qmd">Snail habitat AI toolset</a> 
-<a href="rice_fish_schisto.qmd">Rice & Fish Co-aquaculture</a>
+<a href="invest_schisto_tool.qmd">InVEST plugin</a>
+<a href="snail_habitat_toolset.qmd">AI toolset</a> 
+<a href="rice_fish_schisto.qmd">Rice & Fish</a>
 :::
 
 ## More information  

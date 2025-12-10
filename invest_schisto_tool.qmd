@@ -59,11 +59,7 @@ The output predictions of schistosomiasis risk can be used in any GIS software. 
 ## Validation 
 We have validated the predictions made by the software with observed infection *Schistosoma haematobium* prevalence data from the Senegal River Basin.    
 
-::: {.centered-links}
-<a href="https://naturalcapitalproject.stanford.edu/software/invest/">Learn about InVEST</a>
-:::
-
-[The schistosomiasis plugin was built by the De Leo Lab in collaboration with NatCap, but will be hosted independently.]{style="font-size:.7rem; color:#ae5b5b;"}
+**Come by the booth to see a demo**
 
 :::
 :::

@@ -33,7 +33,7 @@ Schistosomiasis infects 250 million people globally, 90% of which live in Africa
 
 ::: {.centered-links}
 <a href="https://schisto.stanford.edu/">History</a>
-<a href="https://www.eliminateschisto.org/">Global Schistosomiasis Alliance</a> 
+<a href="https://www.eliminateschisto.org/">GSA</a> 
 :::
 
 [Image: Schistome lifecycle: De Leo Lab]{style="font-size:.7rem; color:#ae5b5b;"}
@@ -53,6 +53,8 @@ More than 600 dams are in construction or are being proposed. Dams and irrigatio
 
 ::: {.centered-links}
 <a href="dams_and_disease.qmd">More Information</a>
+:::
+::: {.centered-links}
 <a href="invest_schisto_plugin.qmd">Risk assessment software</a>
 :::
 
@@ -78,7 +80,7 @@ More than 600 dams are in construction or are being proposed. Dams and irrigatio
 Rice is a vital staple to feed Africa's growing population, however, rice farming exposes farmers to schistosomiasis. Rice-fish co-farming is a win-win-win sustainable solution to increase food security, diversify farmers incomes, lower agrochemical use, and combat infectious disease. 
 
 ::: {.centered-links}
-<a href="rice_fish_schisto.qmd">Rice-fish Co-farming</a>
+<a href="rice_fish_schisto.qmd">Rice-fish Project</a>
 :::
 
 [Image: Fish haverst: De Leo Lab]{style="font-size:.7rem; color:#ae5b5b;"}

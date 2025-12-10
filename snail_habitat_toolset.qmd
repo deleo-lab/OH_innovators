@@ -73,6 +73,12 @@ We achieve drone-level accuracy >90% for key habitats and are successfully scali
 
 These maps would allow for targetting snail control where it is needed most.
 
+
+:::
+:::
+:::
+
+::: {.content-container}
 ### More information  
 
 Sokolow SH, Wood CL, Jones IJ, Swartz SJ, Lopez M, et al. Global Assessment of Schistosomiasis Control Over the Past Century Shows Targeting the Snail Intermediate Host Works Best. PLOS NTD 10(7): e0004794. (2016) <https://doi.org/10.1371/journal.pntd.0004794>
@@ -83,6 +89,3 @@ Chamberlin, Andrew J., Isabel J. Jones, Andrea J. Lund, Nicolas Jouanard, Gilles
 
 Wood, Chelsea L., Susanne H. Sokolow, Isabel J. Jones, Andrew J. Chamberlin, Kevin D. Lafferty, Armand M. Kuris, Merlijn Jocque et al. Precision mapping of snail habitat provides a powerful indicator of human schistosomiasis transmission. Proceedings of the National Academy of Sciences 116, no. 46 (2019): 23182-23191. <https://doi.org/10.1073/pnas.1903698116>
 :::
-:::
-:::
- 

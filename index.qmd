@@ -55,7 +55,7 @@ More than 600 dams are in construction or are being proposed. Dams and irrigatio
 <a href="dams_and_disease.qmd">More Information</a>
 :::
 ::: {.centered-links}
-<a href="invest_schisto_plugin.qmd">Risk assessment software</a>
+<a href="invest_schisto_tool.qmd">Risk assessment software</a>
 :::
 
 [Image: Diama Dam (CC-BY-NC): [Par Ji-Elle](https://commons.wikimedia.org/w/index.php?curid=1621736)]{style="font-size:.7rem; color:#ae5b5b;"}
